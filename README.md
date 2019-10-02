@@ -7,7 +7,7 @@ Project template to quickly setup a React project with TS and Material UI
 Download the example [or clone the repo](https://github.com/nnance/create-react-app-ts-material-ui):
 
 ```sh
-git clone --depth=1 https://github.com/nnance/material-grid-playground.git new-project && cd new-project && rm -rf .git
+git clone --depth=1 https://github.com/nnance/create-react-app-ts-material-ui.git new-project && cd new-project && rm -rf .git
 ```
 
 Install it and run:
