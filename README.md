@@ -8,8 +8,6 @@ Download the example [or clone the repo](https://github.com/nnance/create-react-
 
 ```sh
 git clone --depth=1 https://github.com/nnance/material-grid-playground.git new-project && cd new-project && rm -rf .git
-cd new-project
-rm -rf .git
 ```
 
 Install it and run:
