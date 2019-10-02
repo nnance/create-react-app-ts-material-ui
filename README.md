@@ -1,3 +1,29 @@
+# Create React App example with TypeScript
+
+Project template to quickly setup a React project with TS and Material UI
+
+## How to use
+
+Download the example [or clone the repo](https://github.com/nnance/create-react-app-ts-material-ui):
+
+```sh
+git clone --depth=1 https://github.com/nnance/material-grid-playground.git new-project && cd new-project && rm -rf .git
+cd new-project
+rm -rf .git
+```
+
+Install it and run:
+
+```sh
+npm install
+npm start
+```
+
+## The idea behind the example
+
+This project is intended to be used as a project template to quickly setup a [React App](https://reactjs.org) with [TypeScript](https://github.com/Microsoft/TypeScript) and [Material UI](https://material-ui.com)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

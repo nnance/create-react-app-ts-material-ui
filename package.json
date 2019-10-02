@@ -1,5 +1,6 @@
 {
-  "name": "material-theme-switcher",
+  "name": "create-react-app-ts-material-ui",
+  "description": "Project template to quickly setup a React project with TS and Material UI",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
